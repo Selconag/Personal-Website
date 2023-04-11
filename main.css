@@ -49,3 +49,20 @@
 .fa-brands:hover {
     opacity: 0.7;
 }
+
+@font-face {
+    font-family: ExclusiveFont;
+  src: url(Newage-Bold.ttf) format("truetype");
+    font-weight: bold;
+  }
+
+  h1 {
+    font-family: ExclusiveFont;
+    color: yellow;
+}
+  h2 {
+    font-family: ExclusiveFont;
+    color: white;
+}
+
+  

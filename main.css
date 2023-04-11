@@ -32,3 +32,20 @@
 .fa:hover {
     opacity: 0.7;
 }
+
+.fa-brands {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+
+    background: #120e07;
+    color: #ffce54;
+}
+
+.fa-brands:hover {
+    opacity: 0.7;
+}

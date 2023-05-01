@@ -11,7 +11,7 @@
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center center;
-    background: url(City.jpg);
+    background: url(files/City.jpg);
     background-size: cover;
     background-color:#464646;
 }
@@ -52,7 +52,7 @@
 
 @font-face {
     font-family: ExclusiveFont;
-  src: url(Newage-Bold.ttf) format("truetype");
+  src: url(files/Newage-Bold.ttf) format("truetype");
     font-weight: bold;
   }
 
